@@ -1,0 +1,13 @@
+# Секретные ключи и токены
+.env
+config.ini
+*.token
+
+# Временные файлы Python
+__pycache__/
+*.pyc
+
+# Логи и базы данных
+*.log
+*.db
+*.sqlite3

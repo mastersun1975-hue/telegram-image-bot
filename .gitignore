@@ -1,13 +1,13 @@
-# Секретные ключи и токены
+# Secret keys and tokens
 .env
 config.ini
 *.token
 
-# Временные файлы Python
+# Temporary files Python
 __pycache__/
 *.pyc
 
-# Логи и базы данных
+# Logs and databases
 *.log
 *.db
 *.sqlite3
